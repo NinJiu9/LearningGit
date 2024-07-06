@@ -5,3 +5,5 @@ git test
 
 12323
 
+test：
+通过 git checkout branch 创建与远程相连的分支

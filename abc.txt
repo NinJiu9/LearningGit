@@ -1,3 +1,4 @@
 ?
 test git fetch then git merge
 test git pull 
+git test

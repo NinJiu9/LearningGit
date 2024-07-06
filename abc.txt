@@ -7,3 +7,6 @@ git test
 
 test：
 通过 git checkout branch 创建与远程相连的分支
+
+test：
+git checkout 和 git switch 切换分支的 区别
